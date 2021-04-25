@@ -61,6 +61,9 @@ function checkDatabase() {
             currentStore.clear();
             console.log('Clearing store 🧹');
           }
+        })
+        .catch(err => {
+          res.json(err);
         });
     }
   };
