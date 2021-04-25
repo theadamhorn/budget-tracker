@@ -1,6 +1,6 @@
 # Budget Tracker
 
-[LIVE SITE -- Fitness Tracker](https://protected-shore-78478.herokuapp.com/)
+[LIVE SITE -- Budget Tracker](https://ancient-bastion-15897.herokuapp.com/)
 
 ## Table of Contents
 - [Description](#description)
@@ -21,11 +21,7 @@ This is a site for a person to track and account for their finances. It allows a
 
 ## Screenshots
 
-![Homepage](images/homepage.png)
-
-![Add Your Exercise](images/addexercise.png)
-
-![Dashboard](images/dashboard.png)
+![Budget Tracker Page](images/budget-tracker.png)
 
 ---
 
@@ -40,7 +36,7 @@ This is a simple budget tracker where people can enter and monitor their income 
 ---
 
 ## Contributors
-This project code was largely provided and was improved upon by Adam Horn, with guidance from Ryan Skog and Zac Warner.
+This project code was largely provided and was improved upon by Adam Horn, with guidance from Ryan Skog.
 
 ---
 
